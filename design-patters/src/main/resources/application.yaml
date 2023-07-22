@@ -1,0 +1,15 @@
+design-patterns-app:
+  name: "Design Patterns Showcasing"
+  version: "1.0.0"
+  socialAddresses:
+    - facebook
+    - instagram
+    - tiktok
+    - linkedin
+  owners:
+    - name: "Aziz"
+      surname: "Gasimov"
+      contact: "aziz@mail.com"
+    - name: "Emin"
+      surname: "Gasimov"
+      contact: "emin@mail.com"
